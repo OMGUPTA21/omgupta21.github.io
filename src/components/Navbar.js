@@ -105,7 +105,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/OMGUPTA21/Portfolio"
+                href="https://github.com/OMGUPTA21/OM2.00"
                 target="_blank"
                 className="fork-btn-inner"
               >
