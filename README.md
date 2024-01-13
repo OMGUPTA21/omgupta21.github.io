@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+#OM2.00
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [OM2.00 App][(https://omgupta21.github.io/OM2.00/)].
 
 ## Available Scripts
 
