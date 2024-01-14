@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OM2.00/static/css/main.21016f9c.css",
-    "main.js": "/OM2.00/static/js/main.488536dd.js",
+    "main.js": "/OM2.00/static/js/main.254939b2.js",
     "static/js/415.fb51c11d.chunk.js": "/OM2.00/static/js/415.fb51c11d.chunk.js",
     "static/js/787.35dd0f9c.chunk.js": "/OM2.00/static/js/787.35dd0f9c.chunk.js",
     "static/media/leaf.png": "/OM2.00/static/media/leaf.a0e91704dd183a7496e4.png",
@@ -19,6 +19,7 @@
     "static/media/cert2.png": "/OM2.00/static/media/cert2.39808e9fb9d92a6b49ce.png",
     "static/media/OM_CV.pdf": "/OM2.00/static/media/OM_CV.7ed5326aed727db7a270.pdf",
     "static/media/codeEditor.png": "/OM2.00/static/media/codeEditor.9d5a10eb606eabfaeca3.png",
+    "static/media/certi7.png": "/OM2.00/static/media/certi7.d846b3a2a82d68d48e86.png",
     "static/media/certi6.png": "/OM2.00/static/media/certi6.6c909f36758129b384c2.png",
     "static/media/avtar.jpg": "/OM2.00/static/media/avtar.8ebb4923b940cb7b1de5.jpg",
     "static/media/MCA.png": "/OM2.00/static/media/MCA.d4855395ee7a352ebab7.png",
@@ -26,12 +27,12 @@
     "static/media/pre.svg": "/OM2.00/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/OM2.00/index.html",
     "main.21016f9c.css.map": "/OM2.00/static/css/main.21016f9c.css.map",
-    "main.488536dd.js.map": "/OM2.00/static/js/main.488536dd.js.map",
+    "main.254939b2.js.map": "/OM2.00/static/js/main.254939b2.js.map",
     "415.fb51c11d.chunk.js.map": "/OM2.00/static/js/415.fb51c11d.chunk.js.map",
     "787.35dd0f9c.chunk.js.map": "/OM2.00/static/js/787.35dd0f9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21016f9c.css",
-    "static/js/main.488536dd.js"
+    "static/js/main.254939b2.js"
   ]
 }
