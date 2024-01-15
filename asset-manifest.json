@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/OM2.00/static/css/main.2f1d1411.css",
-    "main.js": "/OM2.00/static/js/main.fcb2fc20.js",
+    "main.js": "/OM2.00/static/js/main.4c3283e6.js",
     "static/js/415.55fc2127.chunk.js": "/OM2.00/static/js/415.55fc2127.chunk.js",
     "static/js/787.7da95b79.chunk.js": "/OM2.00/static/js/787.7da95b79.chunk.js",
     "static/media/leaf.png": "/OM2.00/static/media/leaf.a0e91704dd183a7496e4.png",
     "static/media/suicide.png": "/OM2.00/static/media/suicide.0cfbcc21b2040fd938b8.png",
     "static/media/chatify.png": "/OM2.00/static/media/chatify.b4cc848f9e5e9799e5c4.png",
+    "static/media/certi10.png": "/OM2.00/static/media/certi10.1ece532bca1e8d26d9c6.png",
     "static/media/blog.png": "/OM2.00/static/media/blog.7cd882eb0db094aa6e92.png",
     "static/media/Docto.png": "/OM2.00/static/media/Docto.b0644dffea283c0e7a0c.png",
     "static/media/Capture1.png": "/OM2.00/static/media/Capture1.c77870eb6ce9a67b9fd4.png",
@@ -30,12 +31,12 @@
     "static/media/pre.svg": "/OM2.00/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/OM2.00/index.html",
     "main.2f1d1411.css.map": "/OM2.00/static/css/main.2f1d1411.css.map",
-    "main.fcb2fc20.js.map": "/OM2.00/static/js/main.fcb2fc20.js.map",
+    "main.4c3283e6.js.map": "/OM2.00/static/js/main.4c3283e6.js.map",
     "415.55fc2127.chunk.js.map": "/OM2.00/static/js/415.55fc2127.chunk.js.map",
     "787.7da95b79.chunk.js.map": "/OM2.00/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f1d1411.css",
-    "static/js/main.fcb2fc20.js"
+    "static/js/main.4c3283e6.js"
   ]
 }
