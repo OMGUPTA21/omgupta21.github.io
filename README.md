@@ -1,6 +1,6 @@
 #OM2.00
 
-This project was bootstrapped with [OM2.00 App][(https://omgupta21.github.io/)].
+This project was bootstrapped with [My Site][(https://omgupta21.github.io/)].
 
 ## Available Scripts
 
