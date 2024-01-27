@@ -1,6 +1,6 @@
 #OM2.00
 
-This project was bootstrapped with [My Site][(https://omgupta21.github.io/)].
+This project was bootstrapped with [My Site][(https://green-river-0ea784110.4.azurestaticapps.net)].
 
 ## Available Scripts
 
