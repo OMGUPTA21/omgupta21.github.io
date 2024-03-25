@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.0cdf3dce.css",
-    "main.js": "/static/js/main.61517ac1.js",
+    "main.js": "/static/js/main.14f924d2.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/mca 2024.pdf": "/static/media/mca 2024.761fd2ac511dd007f813.pdf",
     "static/media/leaf.png": "/static/media/leaf.a0e91704dd183a7496e4.png",
     "static/media/suicide.png": "/static/media/suicide.0cfbcc21b2040fd938b8.png",
     "static/media/chatify.png": "/static/media/chatify.b4cc848f9e5e9799e5c4.png",
@@ -16,11 +17,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.0cdf3dce.css.map": "/static/css/main.0cdf3dce.css.map",
-    "main.61517ac1.js.map": "/static/js/main.61517ac1.js.map",
+    "main.14f924d2.js.map": "/static/js/main.14f924d2.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cdf3dce.css",
-    "static/js/main.61517ac1.js"
+    "static/js/main.14f924d2.js"
   ]
 }
