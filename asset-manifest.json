@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0cdf3dce.css",
-    "main.js": "/static/js/main.14f924d2.js",
+    "main.js": "/static/js/main.a777e0b3.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/mca 2024.pdf": "/static/media/mca 2024.761fd2ac511dd007f813.pdf",
     "static/media/leaf.png": "/static/media/leaf.a0e91704dd183a7496e4.png",
@@ -10,18 +10,18 @@
     "static/media/blog.png": "/static/media/blog.7cd882eb0db094aa6e92.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.5b70e6c992ae6544c01f.jpg",
     "static/media/Capture.png": "/static/media/Capture.b5c9d6c10bc1e461ac57.png",
-    "static/media/OM CV.pdf": "/static/media/OM CV.fe45b894a84cc0bcff20.pdf",
+    "static/media/OM CV.pdf": "/static/media/OM CV.5a3c50e7f7d9a9589401.pdf",
     "static/media/codeEditor.png": "/static/media/codeEditor.9d5a10eb606eabfaeca3.png",
     "static/media/avtar.jpg": "/static/media/avtar.8ebb4923b940cb7b1de5.jpg",
     "static/media/logo.png": "/static/media/logo.157348a7837e51edc3f8.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.0cdf3dce.css.map": "/static/css/main.0cdf3dce.css.map",
-    "main.14f924d2.js.map": "/static/js/main.14f924d2.js.map",
+    "main.a777e0b3.js.map": "/static/js/main.a777e0b3.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cdf3dce.css",
-    "static/js/main.14f924d2.js"
+    "static/js/main.a777e0b3.js"
   ]
 }
