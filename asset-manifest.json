@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0cdf3dce.css",
-    "main.js": "/static/js/main.f90b027c.js",
+    "main.js": "/static/js/main.da9eb5d0.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/mca 2024.pdf": "/static/media/mca 2024.761fd2ac511dd007f813.pdf",
     "static/media/leaf.png": "/static/media/leaf.a0e91704dd183a7496e4.png",
@@ -13,15 +13,15 @@
     "static/media/OM CV.pdf": "/static/media/OM CV.5a3c50e7f7d9a9589401.pdf",
     "static/media/codeEditor.png": "/static/media/codeEditor.9d5a10eb606eabfaeca3.png",
     "static/media/avtar.jpg": "/static/media/avtar.f12332a7db51c9340cbc.jpg",
-    "static/media/logo.png": "/static/media/logo.157348a7837e51edc3f8.png",
+    "static/media/logo.png": "/static/media/logo.f12332a7db51c9340cbc.png",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.0cdf3dce.css.map": "/static/css/main.0cdf3dce.css.map",
-    "main.f90b027c.js.map": "/static/js/main.f90b027c.js.map",
+    "main.da9eb5d0.js.map": "/static/js/main.da9eb5d0.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0cdf3dce.css",
-    "static/js/main.f90b027c.js"
+    "static/js/main.da9eb5d0.js"
   ]
 }
